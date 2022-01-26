@@ -1,0 +1,7 @@
+C:\Users\danny\Desktop\Basic_C#_Programs\Daily_Report_Submission\Daily_Report_Submission\bin\Debug\Daily_Report_Submission.exe.config
+C:\Users\danny\Desktop\Basic_C#_Programs\Daily_Report_Submission\Daily_Report_Submission\bin\Debug\Daily_Report_Submission.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\Daily_Report_Submission\Daily_Report_Submission\bin\Debug\Daily_Report_Submission.pdb
+C:\Users\danny\Desktop\Basic_C#_Programs\Daily_Report_Submission\Daily_Report_Submission\obj\Debug\Daily_Report_Submission.csproj.AssemblyReference.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\Daily_Report_Submission\Daily_Report_Submission\obj\Debug\Daily_Report_Submission.csproj.CoreCompileInputs.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\Daily_Report_Submission\Daily_Report_Submission\obj\Debug\Daily_Report_Submission.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\Daily_Report_Submission\Daily_Report_Submission\obj\Debug\Daily_Report_Submission.pdb
