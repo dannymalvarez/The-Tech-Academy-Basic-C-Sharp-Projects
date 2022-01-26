@@ -28,7 +28,7 @@ namespace Daily_Report_Submission
             Console.WriteLine("How many hours did you study today?"); //asking how many hours user studied that day
             string hours = Console.ReadLine(); // This saves user input
             int hoursStudied = Convert.ToInt32(hours); // This converts user input from string to integer
-            Console.WriteLine("Thank you for your answers. An instructor will responsd to this shortly. Have a great day!"); //displaying this sentence when program ends. 
+            Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great day!"); //displaying this sentence when program ends. 
             Console.Read(); // This makes the program keep running even when finished until user exists
 
 
