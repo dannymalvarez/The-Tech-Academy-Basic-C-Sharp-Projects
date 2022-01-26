@@ -1,0 +1,7 @@
+C:\Users\danny\Desktop\Basic_C#_Programs\Math_And_Comparison_Assignment\Math_And_Comparison_Assignment\bin\Debug\Math_And_Comparison_Assignment.exe.config
+C:\Users\danny\Desktop\Basic_C#_Programs\Math_And_Comparison_Assignment\Math_And_Comparison_Assignment\bin\Debug\Math_And_Comparison_Assignment.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\Math_And_Comparison_Assignment\Math_And_Comparison_Assignment\bin\Debug\Math_And_Comparison_Assignment.pdb
+C:\Users\danny\Desktop\Basic_C#_Programs\Math_And_Comparison_Assignment\Math_And_Comparison_Assignment\obj\Debug\Math_And_Comparison_Assignment.csproj.AssemblyReference.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\Math_And_Comparison_Assignment\Math_And_Comparison_Assignment\obj\Debug\Math_And_Comparison_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\Math_And_Comparison_Assignment\Math_And_Comparison_Assignment\obj\Debug\Math_And_Comparison_Assignment.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\Math_And_Comparison_Assignment\Math_And_Comparison_Assignment\obj\Debug\Math_And_Comparison_Assignment.pdb
