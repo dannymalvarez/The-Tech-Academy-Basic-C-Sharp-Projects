@@ -1,0 +1,7 @@
+C:\Users\danny\Desktop\Basic_C#_Programs\While_and_Do_While\While_and_Do_While\bin\Debug\While_and_Do_While.exe.config
+C:\Users\danny\Desktop\Basic_C#_Programs\While_and_Do_While\While_and_Do_While\bin\Debug\While_and_Do_While.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\While_and_Do_While\While_and_Do_While\bin\Debug\While_and_Do_While.pdb
+C:\Users\danny\Desktop\Basic_C#_Programs\While_and_Do_While\While_and_Do_While\obj\Debug\While_and_Do_While.csproj.AssemblyReference.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\While_and_Do_While\While_and_Do_While\obj\Debug\While_and_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\While_and_Do_While\While_and_Do_While\obj\Debug\While_and_Do_While.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\While_and_Do_While\While_and_Do_While\obj\Debug\While_and_Do_While.pdb
