@@ -1,7 +1,0 @@
-C:\Users\danny\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe.config
-C:\Users\danny\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe
-C:\Users\danny\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\bin\Debug\CallingMethods.pdb
-C:\Users\danny\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.AssemblyReference.cache
-C:\Users\danny\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.CoreCompileInputs.cache
-C:\Users\danny\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\CallingMethods.exe
-C:\Users\danny\Desktop\Basic_C#_Programs\CallingMethods\CallingMethods\obj\Debug\CallingMethods.pdb
