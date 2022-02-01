@@ -86,30 +86,18 @@ namespace ArrayIteration
 
 
             List<string> stateList = new List<string>() { "Tennessee", "California", "Oregon", "Oregon" }; //list of states
-            Console.WriteLine("Guess a City"); //instructions
-            string userSelect = Console.ReadLine(); //storing user input as a string
-            bool stateExists = false; //this bool is for the error if statement should an input not exist in the list
-            List<string> statesTotal = new List<string>() { }; // list to add states to if there is more than one instance of it in the list. 
             foreach (string state in stateList) //loops through list of states
             {
-                if (userSelect == state) // checking if user input matches a state
+                Console.WriteLine(state);
+                for (int i = 0; i < stateList.Count; i++)
                 {
-                    stateExists = true; //setting bool for error if statement to true since in order to make it this far it must be true that a correct input was typed in
-                    statesTotal.Add(state); //adding a state to the list used for counting if there are more than 1
-                    Console.WriteLine(state); //
-                    if (statesTotal.Count > 1) //checks if there are more than 1 items in the list
+                    if (state == stateList[i] && stateList.IndexOf(state) != i)
                     {
-                        Console.WriteLine("There are multiple instances of " + state + " in this list."); //displays a message including the state that has multiple instances
+                        Console.WriteLine(state + " has already appeared in the list."); //displays a message including the state that has multiple instances
                     }
                 }
             }
-            if (stateExists == false) //if the input does not exist in the list this will display
-            {
-                Console.WriteLine("That option is not on the list.");
-            }
             Console.ReadLine();
-
-
         }
     }
 }
