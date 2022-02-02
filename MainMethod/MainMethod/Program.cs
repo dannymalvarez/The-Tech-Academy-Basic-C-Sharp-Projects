@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -19,7 +19,7 @@ namespace MainMethod
 
             Console.WriteLine("Please enter a decimal number."); //instructions
             decimal userInputDec = Convert.ToDecimal(Console.ReadLine()); //converting user input to decimal and storing it
-            decimal divideDecimal = This.MyAddition(userInputDec); //calling method and passing in parameter and saving it to a variable
+            int divideDecimal = This.MyAddition(userInputDec); //calling method and passing in parameter and saving it to a variable
             Console.WriteLine(divideDecimal); //displaying result
 
 
