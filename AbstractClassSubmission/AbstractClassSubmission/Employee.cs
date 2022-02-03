@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +10,7 @@ namespace AbstractClassSubmission
     {
         public override void SayName() //implemting say name method 
         {
-            throw new NotImplementedException(); //throws error since not implemented with any instructions 
+            Console.WriteLine("Name: " + FirstName + " " + LastName); // printing out a full name.
         }
     }
 }
