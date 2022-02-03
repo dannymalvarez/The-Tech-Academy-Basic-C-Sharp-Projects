@@ -1,0 +1,7 @@
+C:\Users\danny\Desktop\Basic_C#_Programs\ClassSub\ClassSub\bin\Debug\ClassSub.exe.config
+C:\Users\danny\Desktop\Basic_C#_Programs\ClassSub\ClassSub\bin\Debug\ClassSub.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\ClassSub\ClassSub\bin\Debug\ClassSub.pdb
+C:\Users\danny\Desktop\Basic_C#_Programs\ClassSub\ClassSub\obj\Debug\ClassSub.csproj.AssemblyReference.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\ClassSub\ClassSub\obj\Debug\ClassSub.csproj.CoreCompileInputs.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\ClassSub\ClassSub\obj\Debug\ClassSub.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\ClassSub\ClassSub\obj\Debug\ClassSub.pdb
