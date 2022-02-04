@@ -1,0 +1,7 @@
+C:\Users\danny\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.exe.config
+C:\Users\danny\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\bin\Debug\ParametersAssignment.pdb
+C:\Users\danny\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.AssemblyReference.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\ParametersAssignment\ParametersAssignment\obj\Debug\ParametersAssignment.pdb
