@@ -1,0 +1,6 @@
+C:\Users\danny\Desktop\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.csproj.CoreCompileInputs.cache
+C:\Users\danny\Desktop\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.exe.config
+C:\Users\danny\Desktop\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\bin\Debug\LambdaSubmission.pdb
+C:\Users\danny\Desktop\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.exe
+C:\Users\danny\Desktop\Basic_C#_Programs\LambdaSubmission\LambdaSubmission\obj\Debug\LambdaSubmission.pdb
