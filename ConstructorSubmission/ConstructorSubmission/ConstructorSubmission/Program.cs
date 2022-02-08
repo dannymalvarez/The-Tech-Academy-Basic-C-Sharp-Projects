@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,10 +12,10 @@ namespace ConstructorSubmission
         {
 
             const string myFirstName = "Daniel"; //setting a constant string variable as my first name 
-            const string myLastName = "Alvarez"; //creating a variable using var for my last name
-            var fullName = new FullName(myFirstName, myLastName);
-            Console.WriteLine(fullName.myFirstName);
-            Console.WriteLine(fullName.myLastName);
+            const string myLastName = "Alvarez"; //setting a constant string variable as my last  name 
+            var fullName = new FullName(myFirstName, myLastName); //creating a variable using var for passing these constants to the method
+            Console.WriteLine(fullName.myFirstName); //displaying first name to console
+            Console.WriteLine(fullName.myLastName); //displaying last name to console
              
             Console.ReadLine();
             
