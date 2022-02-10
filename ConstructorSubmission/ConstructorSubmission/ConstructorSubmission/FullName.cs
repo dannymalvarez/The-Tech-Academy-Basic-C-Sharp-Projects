@@ -14,9 +14,12 @@ namespace ConstructorSubmission
 
         }
        
-        public FullName(string myFirstName, string myLastName)
+        public FullName(string firstName, string lastName)
         {
-            
+            FName = firstName;
+            LName = lastName;
         }
+        public string FName { get; set; }
+        public string LName { get; set; }
     }
 }
