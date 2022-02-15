@@ -57,11 +57,11 @@ namespace CarInsurance.Controllers
             {
                 insuree.Quote = 50;
                 int ageInYears = 2022 - insuree.DateOfBirth.Year;
-                if (ageInYears < 18)
+                if (ageInYears <= 18)
                 {
                     insuree.Quote += 100m;
                 }
-                if (ageInYears < 19 && ageInYears < 25)
+                if (ageInYears >= 19 && ageInYears <= 25)
                 {
                     insuree.Quote += 50m;
                 }
@@ -74,6 +74,10 @@ namespace CarInsurance.Controllers
                     insuree.Quote += 25m;
                 }
                 if (insuree.CarYear > 2015)
+                {
+                    insuree.Quote += 25m;
+                }
+                if (insuree.CarMake.ToLower() == "porsche")
                 {
                     insuree.Quote += 25m;
                 }
