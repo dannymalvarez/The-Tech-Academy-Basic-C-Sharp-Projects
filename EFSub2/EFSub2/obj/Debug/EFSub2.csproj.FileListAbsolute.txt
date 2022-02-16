@@ -1,0 +1,2 @@
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\obj\Debug\EFSub2.csproj.AssemblyReference.cache
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\obj\Debug\EFSub2.csproj.CoreCompileInputs.cache

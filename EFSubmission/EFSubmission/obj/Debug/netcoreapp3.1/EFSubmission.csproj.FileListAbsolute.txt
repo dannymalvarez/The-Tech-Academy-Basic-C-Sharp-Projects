@@ -1,0 +1,5 @@
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSubmission\EFSubmission\obj\Debug\netcoreapp3.1\EFSubmission.csproj.AssemblyReference.cache
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSubmission\EFSubmission\obj\Debug\netcoreapp3.1\EFSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSubmission\EFSubmission\obj\Debug\netcoreapp3.1\EFSubmission.AssemblyInfoInputs.cache
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSubmission\EFSubmission\obj\Debug\netcoreapp3.1\EFSubmission.AssemblyInfo.cs
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSubmission\EFSubmission\obj\Debug\netcoreapp3.1\EFSubmission.csproj.CoreCompileInputs.cache
