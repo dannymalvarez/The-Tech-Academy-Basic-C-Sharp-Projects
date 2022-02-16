@@ -1,0 +1,15 @@
+﻿@page
+@model PrivacyModel
+@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<h1>@ViewData["Title"]</h1>
+@{
+    var text = "";
+    if (DateTime.Now.Hour < 12)
+    {text = "Good morning!";}
+    else{ text = "Good Afternoon";}
+}
+<h2>@text</h2>
+
+<p>This page is under construction as of @ViewData["TimeStamp"]</p>
