@@ -1,2 +1,12 @@
 C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\obj\Debug\EFSub2.csproj.AssemblyReference.cache
 C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\obj\Debug\EFSub2.csproj.CoreCompileInputs.cache
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\bin\Debug\EFSub2.exe.config
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\bin\Debug\EFSub2.exe
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\bin\Debug\EFSub2.pdb
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\bin\Debug\EntityFramework.dll
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\bin\Debug\EntityFramework.xml
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\obj\Debug\EFSub2.csproj.CopyComplete
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\obj\Debug\EFSub2.exe
+C:\Users\danny\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFSub2\EFSub2\obj\Debug\EFSub2.pdb
