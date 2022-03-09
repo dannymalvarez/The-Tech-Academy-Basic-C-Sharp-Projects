@@ -19,7 +19,7 @@ A lot of my time in this bootcamp has been learning and accepting that spending 
 I will learn and grow more comfortable with it. Which has some growing pains but I have come to see that they are worth it when you 
 manage to complete your task and see how and why it works the way it does. 
 
-### Try/Catch / Error Handling
+### Try / Catch - Error Handling
 I had seen this in another course but got some more practice with it. This course was pretty heavy on hands-on projects throughout the course
 which allowed me to repeatedly see how these apps were spun up and such. Now I am more aware of the importance of error handling and trying to 
 think like the user. After all, the user's needs are very important. 
